@@ -1,0 +1,3 @@
+rootProject.name = 'jokNav'
+
+include ':app'
